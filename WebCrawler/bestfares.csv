@@ -1,0 +1,9 @@
+OutboundDepartureIata; OutboundArrivalIata; OutboundDepartureTime; OutboundArrivalTime; InboundDepartureIata; InboundArrivalIata; InboundDepartureTime; InboundArrivalTime; FareOut; FareIn; TaxesFlexOut; TaxesFlexPlusOut; TaxesFlexIn; TaxesFlexPlusIn; FinalPrice
+(NBO); (MBA);  Thu 20 Jan 2022 UTC+3  6:00am ;  Thu 20 Jan 2022 UTC+3  7:10am ; (MBA); (NBO);  Thu 27 Jan 2022 UTC+3  7:30am ;  Thu 27 Jan 2022 UTC+3  8:40am ; 4540; 4540; 5940; 10940; 5940; 10940; 9080
+(NBO); (MBA);  Thu 20 Jan 2022 UTC+3  6:00am ;  Thu 20 Jan 2022 UTC+3  7:10am ; (MBA); (NBO);  Thu 27 Jan 2022 UTC+3  8:20pm ;  Thu 27 Jan 2022 UTC+3  9:30pm ; 4540; 4540; 5940; 10940; 5940; 10940; 9080
+(NBO); (MBA);  Thu 20 Jan 2022 UTC+3  6:40pm ;  Thu 20 Jan 2022 UTC+3  7:50pm ; (MBA); (NBO);  Thu 27 Jan 2022 UTC+3  7:30am ;  Thu 27 Jan 2022 UTC+3  8:40am ; 4540; 4540; 5940; 10940; 5940; 10940; 9080
+(NBO); (MBA);  Thu 20 Jan 2022 UTC+3  6:40pm ;  Thu 20 Jan 2022 UTC+3  7:50pm ; (MBA); (NBO);  Thu 27 Jan 2022 UTC+3  8:20pm ;  Thu 27 Jan 2022 UTC+3  9:30pm ; 4540; 4540; 5940; 10940; 5940; 10940; 9080
+(NBO); (MBA);  Sun 30 Jan 2022 UTC+3  8:00am ;  Sun 30 Jan 2022 UTC+3  9:10am ; (MBA); (NBO);  Sun 06 Feb 2022 UTC+3  12:00pm ;  Sun 06 Feb 2022 UTC+3  1:10pm ; 4940; 5540; 5940; 10940; 5940; 10940; 10480
+(NBO); (MBA);  Sun 30 Jan 2022 UTC+3  8:00am ;  Sun 30 Jan 2022 UTC+3  9:10am ; (MBA); (NBO);  Sun 06 Feb 2022 UTC+3  8:20pm ;  Sun 06 Feb 2022 UTC+3  9:30pm ; 4940; 4940; 5940; 10940; 5940; 10940; 9880
+(NBO); (MBA);  Sun 30 Jan 2022 UTC+3  6:40pm ;  Sun 30 Jan 2022 UTC+3  7:50pm ; (MBA); (NBO);  Sun 06 Feb 2022 UTC+3  12:00pm ;  Sun 06 Feb 2022 UTC+3  1:10pm ; 4940; 5540; 5940; 10940; 5940; 10940; 10480
+(NBO); (MBA);  Sun 30 Jan 2022 UTC+3  6:40pm ;  Sun 30 Jan 2022 UTC+3  7:50pm ; (MBA); (NBO);  Sun 06 Feb 2022 UTC+3  8:20pm ;  Sun 06 Feb 2022 UTC+3  9:30pm ; 4940; 4940; 5940; 10940; 5940; 10940; 9880
